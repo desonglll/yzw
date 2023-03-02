@@ -1,7 +1,8 @@
+.DS_Store
 first_class_subject_index.txt
 setup.py
 setup.cfg
-*.xls
+# *.xls
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
 *.py[cod]
